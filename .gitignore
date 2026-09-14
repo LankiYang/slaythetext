@@ -1,0 +1,6 @@
+# Local secrets and runtime data
+.env
+slaythetext_ai_memory.json
+slaythetextSave.dat
+slaythetext.log
+__pycache__/
